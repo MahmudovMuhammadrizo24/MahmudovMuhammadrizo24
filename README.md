@@ -6,10 +6,9 @@
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-![Image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-[![Telegram Badge](https://img.shields.io/badge/Muhammadrizo-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/https://t.me/Muhammadrizo)](https://t.me/MUHAMMADrizo2425) 
 
-![Instagram Bage](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/accounts/edit/muhammadrizo_5559)
+[![Telegram Badge](https://img.shields.io/badge/Muhammadrizo-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/https://t.me/Muhammadrizo)](https://t.me/MUHAMMADrizo2425) 
+![Instagram Bage](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.t.me/muhammadrizo_5559)
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
