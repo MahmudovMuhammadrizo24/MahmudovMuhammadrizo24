@@ -45,6 +45,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MahmudovMuhammadrizo24&show_icons=true&theme=gotham" alt="MahmudovMuhammadrizo24" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MahmudovMuhammadrizo&show_icons=true&theme=gotham" alt="MahmudovMuhammadrizo" />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MahmudovMuhammadrizo24&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="MahmudovMuhammadrizo24" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MahmudovMuhammadrizo24&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Mahmudov Muhammadrizo" /></a> </p>
